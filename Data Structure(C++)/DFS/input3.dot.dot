@@ -1,0 +1,9 @@
+digraph G {
+Micky_Mouse [label= "Label: Micky_Mouse, Distance: 0"];
+Micky_Mouse -> Wille_E_Coyote
+Micky_Mouse -> Scoobie_Doo
+Wille_E_Coyote [label= "Label: Wille_E_Coyote, Distance: 1"];
+Wille_E_Coyote -> Micky_Mouse
+Scoobie_Doo [label= "Label: Scoobie_Doo, Distance: 1"];
+Scoobie_Doo -> Wille_E_Coyote
+}

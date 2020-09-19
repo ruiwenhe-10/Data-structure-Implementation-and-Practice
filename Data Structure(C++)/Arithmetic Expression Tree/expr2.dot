@@ -1,0 +1,8 @@
+digraph G {
+keyghmulti -> keychplus;
+keyghmulti -> keyfhminus;
+keychplus -> keyaha;
+keychplus -> keybhb;
+keyfhminus -> keydhc;
+keyfhminus -> keyehd;
+}
